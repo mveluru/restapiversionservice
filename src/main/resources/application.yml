@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: restapiversionservice
+
+server:
+  port: 8084
+  servlet:
+    context-path: /restapi
+
+management:
+  endpoints:
+    web:
+      base-path: /actuator
+  endpoint:
+    health:
+      probes:
+        enabled: true
