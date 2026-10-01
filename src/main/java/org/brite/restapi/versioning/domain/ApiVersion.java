@@ -1,4 +1,4 @@
-package org.bee.restapi.versioning.domain;
+package org.brite.restapi.versioning.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

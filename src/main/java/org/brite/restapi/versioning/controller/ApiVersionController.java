@@ -1,6 +1,6 @@
-package org.bee.restapi.versioning.controller;
+package org.brite.restapi.versioning.controller;
 
-import org.bee.restapi.versioning.domain.ApiVersion;
+import org.brite.restapi.versioning.domain.ApiVersion;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;

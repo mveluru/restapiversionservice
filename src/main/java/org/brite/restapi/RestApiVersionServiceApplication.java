@@ -1,4 +1,4 @@
-package org.bee.restapi;
+package org.brite.restapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
